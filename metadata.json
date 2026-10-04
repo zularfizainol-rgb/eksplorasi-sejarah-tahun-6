@@ -1,0 +1,6 @@
+{
+  "name": "Eksplorasi Sejarah: Tahun 6",
+  "description": "Permainan web interaktif untuk subjek Sejarah Tahun 6 dengan 10 stesen pembelajaran, cabaran kuiz, dan sijil tamat permainan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
